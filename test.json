@@ -1,0 +1,28 @@
+for division
+
+{
+    "operation":"divide",
+    "number1":10,
+    "number2":20
+}
+
+for addition
+{
+    "operation":"add",
+    "number1":10,
+    "number2":20
+}
+
+for multiplication
+{
+    "operation":"multiply",
+    "number1":10,
+    "number2":20
+}
+
+for substractions
+{
+    "operation":" ",
+    "number1":10,
+    "number2":20
+}
